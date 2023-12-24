@@ -23,7 +23,6 @@ md,,smds,ds
 ndfbdjsbsjbds
 dsnmsnds
 sdskdnsk
-
 ### SKILLS
 - Web, Network and Mobile Application VA and Exploitation.
 - Bug Bounty (part-time)

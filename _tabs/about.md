@@ -17,7 +17,13 @@ Sushmita Poudelgit, a dedicated and passionate professional in the dynamic world
 - Bug Bounty (part-time)
 - Social Engineering attacks
 - Intermediate Python, Java programming
-- Leadership, Team Building and Management.clea
+- Leadership, Team Building and Management
+
+### Certification
+- eLearnSecurity Junior Penetration Tester (EJPTv2)
+
+### Speaker
+- Speaker at (OWASP)0x2 
 
 ### LINKS
 

@@ -10,25 +10,14 @@ order: 4
 
 ### PROFESSIONAL SUMMARY
 
-Sushmita Poudelgit, a dedicated and passionate professional in the dynamic world of cybersecurity. With a profound commitment to securing digital landscapes, Sushmita serves as a valuable asset to the field as a penetration testerkdshdsjdbndbsndbs
-djksjdfkfkdnfd
-kdnkdfnkdfndf
-mdsjsjfkdfj
-mdjdkjd.
+Sushmita Poudelgit, a dedicated and passionate professional in the dynamic world of cybersecurity. With a profound commitment to securing digital landscapes, Sushmita serves as a valuable asset to the field as a penetration tester.
 
-dkdfkjdf
-mdc,m,nmsns
-md,,smds,ds
-,sdsndmwekwneqwjsdksjdbsd
-ndfbdjsbsjbds
-dsnmsnds
-sdskdnsk
 ### SKILLS
 - Web, Network and Mobile Application VA and Exploitation.
 - Bug Bounty (part-time)
 - Social Engineering attacks
 - Intermediate Python, Java programming
-- Leadership, Team Building and Management.
+- Leadership, Team Building and Management.clea
 
 ### LINKS
 

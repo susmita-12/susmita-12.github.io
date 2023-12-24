@@ -16,6 +16,14 @@ kdnkdfnkdfndf
 mdsjsjfkdfj
 mdjdkjd.
 
+dkdfkjdf
+mdc,m,nmsns
+md,,smds,ds
+,sdsndmwekwneqwjsdksjdbsd
+ndfbdjsbsjbds
+dsnmsnds
+sdskdnsk
+
 ### SKILLS
 - Web, Network and Mobile Application VA and Exploitation.
 - Bug Bounty (part-time)

@@ -1,7 +1,7 @@
 ---
 title: Privilege Escalation - Windows
-author: nirajkharel
-date: 2022-12-11 20:55:00 +0800
+author: sushmitapoudel
+date: 2023-12-25 20:55:00 +0800
 categories: [Privilege Escalation, Windows]
 tags: [Privilege Escalation]
 ---

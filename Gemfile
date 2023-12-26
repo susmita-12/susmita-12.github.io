@@ -2,6 +2,9 @@
 
 source "https://rubygems.org"
 
+gem 'sass-embedded', '< 1.69'
+
+
 gem "jekyll-theme-chirpy", "~> 6.2", ">= 6.2.2"
 
 group :test do
